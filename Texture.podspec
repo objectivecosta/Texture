@@ -81,7 +81,7 @@ Pod::Spec.new do |spec|
 
   # Include these by default for backwards compatibility.
   # This will change in 3.0.
-  spec.default_subspecs = 'Core', 'PINRemoteImage', 'Video', 'MapKit', 'AssetsLibrary', 'Photos'
+  spec.default_subspecs = 'Core', 'PINRemoteImage', 'Video', 'MapKit', 'Photos'
 
   spec.social_media_url = 'https://twitter.com/TextureiOS'
   spec.library = 'c++'
